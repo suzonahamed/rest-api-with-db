@@ -1,0 +1,10 @@
+{
+    "editor.fontSize": 16,
+    "editor.minimap.sectionHeaderFontSize": 20,
+    "chat.editor.fontSize": 30,
+    "editor.formatOnSave": true,
+    "editor.fontWeight": "normal",
+    "editor.fontVariations": false,
+    "editor.formatOnSaveMode": "file",
+    "git.ignoreLimitWarning": true
+}
